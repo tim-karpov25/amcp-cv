@@ -1,3 +1,5 @@
+# Проекты
+- [CV](https://tim-karpov25.github.io/amcp-cv/cv)
 # О себе
 ![photo](https://i.ibb.co/B5v1G8nP/1.jpg)
 - ФИО: Карпов Тимофей Андреевич;
